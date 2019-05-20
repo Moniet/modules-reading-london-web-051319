@@ -1,4 +1,4 @@
-require_relative "../lib/kid.rb"
+ruby burequire_relative "../lib/kid.rb"
 require_relative "../lib/dancer.rb"
 
 angelina = Kid.new("Angelina")
